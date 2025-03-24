@@ -61,5 +61,5 @@ I'm so excited to apply the skills and knowledge I learn to enhance my professio
 ---
 
 ## Contact
-
+ 
 Feel free to connect with me on [GitHub](https://github.com/DeniedPath)
