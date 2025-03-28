@@ -14,7 +14,7 @@ Now, I’m dedicated to mastering coding and computer programming, continuously 
 
 - 🔭 Another Project I’m currently working on [CosmoChron AI]((not available to public yet))
 
-- 👨‍💻 All of my projects are available at [git-portfolio-ochre.vercel.app](git-portfolio-ochre.vercel.app)
+- 👨‍💻 All of my projects are available at [DeniedPath's-portfolio](https://git-portfolio-ochre.vercel.app)
 
 - 💬 Ask me about **NextJS, Bootstrap**
 
