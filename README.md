@@ -53,7 +53,7 @@ I'm so excited to apply the skills and knowledge I learn to enhance my professio
   [![DeniedPath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeniedPath)](https://github.com/DeniedPath/github-readme-stats)
 
 - **GitHub Streaks**  
-[![GitHub Streak](https://github-readme-streak-stats-seven-black.vercel.app?user=DeniedPath&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-psi-teal.vercel.app?user=DeniedPath&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 - **Most used languages**  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniedPath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
