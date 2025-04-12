@@ -8,11 +8,11 @@ Through Launchpad philly, I've gained not only technical skills but also a clear
 
 Now, I’m dedicated to mastering coding and computer programming, continuously learning from the people around me, my accomplishments, and the challenges I face.
 
-- 🔭 I’m currently working on [CosmoChron Timer (AI-Powered Focus Timer)](https://github.com/DeniedPath/CosmoChron)
+- 🔭 I’m currently working on [CosmoAI LLM (MultiUse-AI)]
 
 - 🌱 I’m currently learning **Unity, Blender, C#, C++, Java, GO lang, Docker, Rust, Three.js, Flutter, TensorFlow, Pytorch, Ruby, Php**
 
-- 🔭 Another Project I’m currently working on [CosmoChron AI]((not available to public yet))
+- 🔭 Another Project I’m currently working on [Squirrel Nest TaskManager]((Personal Project and for Personl Use))
 
 - 👨‍💻 All of my projects are available at [DeniedPath's-portfolio](https://git-portfolio-ochre.vercel.app)
 
@@ -34,12 +34,12 @@ Now, I’m dedicated to mastering coding and computer programming, continuously 
 
 
 - **Python Training**: Completed 200 hours of focused Python training.
-- **Programming Training**: Accumulated 700 hours of comprehensive programming training.
+- **Programming Training**: Accumulated about 2000 hours of comprehensive programming training.
 - **Technical Skills**: Gained proficiency in essential workplace competencies and critical business tech support functions.
 - **Web Development**: Acquired skills in HTML, CSS, JavaScript, and Bootstrap for responsive web design.
 - **Project Experience**:
-  - Created a fully functioning website in HTML as a technological solution to a real-world problem.
-  - Developed several projects combining HTML, CSS, and JavaScript.
+  - Created a fully functioning website in NextJS as a technological solution to a real-world problem.
+  - Developed several projects combining HTML, CSS, JavaScript, Tailwind, TypeScript, etc.
   - Built an AI chatbot using Python and natural language processing libraries, demonstrating practical application of machine learning concepts.
   - Implemented responsive design principles using Bootstrap in various web development projects.
 
