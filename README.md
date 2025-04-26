@@ -8,13 +8,13 @@ Now, I’m dedicated to mastering coding and computer programming, continuously 
 
 - 🔭 I’m currently working on [CosmoAI LLM (MultiUse-AI)]
 
-- 🌱 I’m currently learning **Unity, Blender, C#, C++, Java, GO lang, Docker, Rust, Three.js, Flutter, TensorFlow, Pytorch, Ruby, Php**
+- 🌱 I’m currently learning **Unity, Blender, C#, C++, Java, GO lang, Docker, Rust, Three.js, Flutter, TensorFlow, Pytorch, Ruby, Php, F#, Lua**
 
 - 🔭 Another Project I’m currently working on [Squirrel Nest TaskManager]((Personal Project and for Personl Use))
 
 - 👨‍💻 All of my projects are available at [DeniedPath's-portfolio](https://git-portfolio-ochre.vercel.app)
 
-- 💬 Ask me about **NextJS, Bootstrap**
+- 💬 Ask me about **NextJS, Bootstrap, Typescript, Python**
 
 - 📫 How to reach me **deniedpathdev@gmail.com**
 
