@@ -2,9 +2,7 @@
 
 ## About Me
 
-Hi, I'm DeniedPath. As a graduate of Jules E. Mastbaum High School and a participant in Launchpad philly, I've experienced a profound shift in my perspective on my future. Before joining Launchpad philly, I felt uncertain about the path ahead, despite my academic achievements. As I approached graduation, I realized that academic success alone wasn't enough to prepare me for life's challenges. That's when I decided to join Launchpad philly, and it has been a truly transformative experience.
-
-Through Launchpad philly, I've gained not only technical skills but also a clearer sense of direction and purpose. The program has provided me with hands-on training, industry connections, and a supportive network that has helped me navigate my career aspirations. I'm excited to see where this journey takes me and how I can apply the skills and knowledge I've acquired to make a meaningful impact in my chosen field.
+Hi, I'm DeniedPath. I like AI
 
 Now, I’m dedicated to mastering coding and computer programming, continuously learning from the people around me, my accomplishments, and the challenges I face.
 
