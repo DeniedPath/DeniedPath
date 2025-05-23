@@ -12,7 +12,7 @@ Now, I’m dedicated to mastering coding and computer programming, continuously 
 
 - 🔭 Another Project I’m currently working on [Squirrel Nest TaskManager]((Personal Project and for Personl Use))
 
-- 👨‍💻 All of my projects are available at [DeniedPath's-portfolio](https://git-portfolio-ochre.vercel.app)
+- 👨‍💻 All of my projects are available at [DeniedPath's-portfolio](https://developer-portfolio-sigma-one.vercel.app)
 
 - 💬 Ask me about **NextJS, Bootstrap, Typescript, Python**
 
